@@ -1,0 +1,4 @@
+Split,Clean lines,Tokens,UNK Rate (%),Context Length,Vocabulary Size,Batch Size
+train,23767,2133462,9.41,64,10000,32
+validation,2461,222830,11.22,64,10000,32
+test,2891,251166,12.0,64,10000,32
