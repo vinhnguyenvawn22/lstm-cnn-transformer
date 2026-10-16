@@ -1,2 +1,0 @@
-model,experiment,parameters,context_length,batch_size,best_valid_loss,best_valid_ppl,test_loss,test_ppl,epochs_trained,training_time_seconds
-cnn,word_c64,5720592,64,32,4.495764221688928,89.63664508464893,4.42531292980478,83.53894495792682,10,220.70068359375
