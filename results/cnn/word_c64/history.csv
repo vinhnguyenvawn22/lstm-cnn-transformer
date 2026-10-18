@@ -1,0 +1,2 @@
+epoch,context_length,batch_size,train_loss,train_ppl,valid_loss,valid_ppl
+1,64,32,5.379619021095935,216.93961026413936,4.984541462742368,146.1365506075796
